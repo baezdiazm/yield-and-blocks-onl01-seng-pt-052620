@@ -10,3 +10,4 @@ def hello_t(array)
 end
 else
 puts "Hey! No block give!"
+end
