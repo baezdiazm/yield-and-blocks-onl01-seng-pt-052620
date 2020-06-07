@@ -12,8 +12,4 @@ else
 puts "Hey! No block give!"
 
 
-hello_t(["Tim", "Tom", "Jim"]) do |name|
-  if name.start_with?("T")
-    "Hi, #{name}"
-  end
-end
+
